@@ -1,0 +1,19 @@
+{
+  "name": "upf-discord-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erozeuya/upf-discord-bot.git"
+  },
+  "author": "Katka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erozeuya/upf-discord-bot/issues"
+  },
+  "homepage": "https://github.com/erozeuya/upf-discord-bot#readme"
+}
